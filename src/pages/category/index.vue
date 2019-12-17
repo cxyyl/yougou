@@ -1,5 +1,5 @@
 <template>
-  <div>我是logs</div>
+  <div>list</div>
 </template>
 
 <script>
